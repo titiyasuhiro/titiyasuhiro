@@ -22,3 +22,13 @@
 <a href="https://www.linkedin.com/in/karine-gard%C3%A8re-2aa6b465/
 "><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logo linkedin" width="40" height="40"></a>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titiyasuhiro&" alt="titiyasuhiro" /></p>
+<!--START_SECTION:waka-->
+
+```text
+PHP     6 hrs 21 mins   █████████████████████████   99.85 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
+<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/5a562de7-4873-43df-b63c-542c66199ee8.svg)](https://wakatime.com/@5a562de7-4873-43df-b63c-542c66199ee8)
