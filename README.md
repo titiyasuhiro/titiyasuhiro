@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning development web
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=flashtheorie&label=Profile%20views&color=0e75b6&style=flat" alt="flashtheorie"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=titiyasuhiro&label=Profile%20views&color=0e75b6&style=flat" alt="titiyasuhiro"/></p>
 
 ##### Langages : 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="logo html" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="logo css" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="logo js" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="logo php" width="50" height="50"> <img src="https://logodix.com/logo/541959.jpg" alt="logo sql" width="50" height="50">
