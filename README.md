@@ -17,6 +17,7 @@
 
 ##### Outils :
 <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="logo phpmyadmin" width="60" height="50"> 
+<img src:"https://www.getpagespeed.com/wp-content/uploads/2017/12/Vertical-Logo-2015.png" alt="logo prestashop" width="60" height="50">
 
 ##### Join me : 
 <a href="https://www.linkedin.com/in/karine-gard%C3%A8re-2aa6b465/
