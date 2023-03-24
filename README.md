@@ -6,8 +6,20 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=titiyasuhiro&label=Profile%20views&color=0e75b6&style=flat" alt="titiyasuhiro"/></p>
 
-##### Langages : 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="logo html" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="logo css" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="logo js" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="logo php" width="50" height="50"> <img src="https://logodix.com/logo/541959.jpg" alt="logo sql" width="50" height="50">
+##### Langages Front-End : 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="logo html" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="logo css" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="logo js" width="50" height="50"> 
+
+##### Langages Back-End : 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="logo php" width="50" height="50"> <img src="https://logodix.com/logo/541959.jpg" alt="logo sql" width="50" height="50">
+
+##### Diagrams : 
+<img src="https://fitsmallbusiness.com/wp-content/uploads/2019/06/draw.io_.png" alt="logo draw.io" width="60" height="50">
+
+##### Maquettage : 
+<img src="https://cdn4.vectorstock.com/i/1000x1000/56/43/pencil-logo-icon-design-template-vector-22505643.jpg" alt="logo pencil" width="60" height="50"> <img src="https://logospng.org/wp-content/uploads/figma.png" alt="logo figma" width="60" height="50">
+
+##### Merise :
+
 
 ##### Frameworks : 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="logo php" width="50" height="50"> <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="logo tailwind" width="80" height="60"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/semantic-ui-logo.png" alt="logo semantic UI" width="60" height="50">
