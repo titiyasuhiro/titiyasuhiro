@@ -15,8 +15,8 @@
 ##### CMS : 
 <img src="https://logos-world.net/wp-content/uploads/2020/10/WordPress-Logo.png" alt="logo wordpress" width="80" height="50"> <img src="https://www.getpagespeed.com/wp-content/uploads/2017/12/Vertical-Logo-2015.png" alt="logo prestashop" width="60" height="50">
 
-##### Outils :
-<img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="logo phpmyadmin" width="60" height="50"> 
+##### Gestion de base de donnéees :
+<img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="logo phpmyadmin" width="60" height="50"> <img src="http://s3.amazonaws.com/info-mongodb-com/_com_assets/media/mongodb-logo-rgb.jpeg" alt="logo mongoDB" width="60" height="50">
 
 ##### Join me : 
 <a href="https://www.linkedin.com/in/karine-gard%C3%A8re-2aa6b465/
