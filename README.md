@@ -13,8 +13,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="logo php" width="50" height="50"> <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="logo tailwind" width="80" height="60"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/semantic-ui-logo.png" alt="logo semantic UI" width="60" height="50">
 
 ##### CMS : 
-<img src="https://logos-world.net/wp-content/uploads/2020/10/WordPress-Logo.png" alt="logo wordpress" width="80" height="50">
-<img src="https://www.getpagespeed.com/wp-content/uploads/2017/12/Vertical-Logo-2015.png" alt="logo prestashop" width="60" height="50">
+<img src="https://logos-world.net/wp-content/uploads/2020/10/WordPress-Logo.png" alt="logo wordpress" width="80" height="50"> <img src="https://www.getpagespeed.com/wp-content/uploads/2017/12/Vertical-Logo-2015.png" alt="logo prestashop" width="60" height="50">
 
 ##### Outils :
 <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="logo phpmyadmin" width="60" height="50"> 
