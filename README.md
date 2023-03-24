@@ -21,18 +21,28 @@
 ##### Merise :
 <img src="https://pbs.twimg.com/profile_images/488995063913934848/g_1E9Mn6.png" alt="logo analyseSi" width="60" height="50">
 
-
 ##### Frameworks : 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="logo php" width="50" height="50"> <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="logo tailwind" width="80" height="60"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/semantic-ui-logo.png" alt="logo semantic UI" width="60" height="50">
 
 ##### Librairies : 
-<img src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png" alt="logo express.js" width="60" height="50">
+<img src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png" alt="logo express.js" width="60" height="50"> <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_small.png" alt="logo react" width="60" height="50">
 
 ##### CMS : 
 <img src="https://logos-world.net/wp-content/uploads/2020/10/WordPress-Logo.png" alt="logo wordpress" width="80" height="50"> <img src="https://www.getpagespeed.com/wp-content/uploads/2017/12/Vertical-Logo-2015.png" alt="logo prestashop" width="60" height="50">
 
 ##### Gestion de base de donnéees :
 <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="logo phpmyadmin" width="60" height="50"> <img src="http://s3.amazonaws.com/info-mongodb-com/_com_assets/media/mongodb-logo-rgb.jpeg" alt="logo mongoDB" width="60" height="50">
+
+##### Gestion de dépendances :
+<img src="https://s3.amazonaws.com/keybase_processed_uploads/6fcb3b3be126569f1ea09ad725727405_360_360.jpg" alt="logo npm" width="60" height="50"> <img src="https://getcomposer.org/img/logo-composer-transparent3.png" alt="logo composer" width="60" height="50">
+
+##### Gestion de projets :
+<img src="https://www.britlog.com/files/methode-agile.png" alt="logo methode agile" width="60" height="50"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo-1280x800.png" alt="logo git" width="60" height="50"> <img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" alt="logo github" width="60" height="50">
+
+##### Plateforme :
+<img src="http://nodejs.org/images/logos/nodejs-dark.png" alt="logo node" width="60" height="50">
+
+##### Intégration, référencement SEO
 
 ##### Join me : 
 <a href="https://www.linkedin.com/in/karine-gard%C3%A8re-2aa6b465/
