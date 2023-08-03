@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="logo html" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="logo css" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="logo js" width="50" height="50"> 
 
 ##### Langages Back-End : 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="logo php" width="50" height="50"> <img src="https://logodix.com/logo/541959.jpg" alt="logo sql" width="50" height="50"> <img src="https://logodix.com/logo/1960455.jpg" alt="logo nosql" width="70" height="50"> <img src="https://logodix.com/logo/2052339.png" alt="logo nosql" width="70" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="logo php" width="50" height="50"> <img src="https://logodix.com/logo/541959.jpg" alt="logo sql" width="50" height="50"> <img src="https://logodix.com/logo/1960455.jpg" alt="logo nosql" width="70" height="50"> <img src="https://logodix.com/logo/2052339.png" alt="logo ruby" width="70" height="50">
 
 ##### Diagrams : 
 <img src="https://fitsmallbusiness.com/wp-content/uploads/2019/06/draw.io_.png" alt="logo draw.io" width="60" height="50">
@@ -28,7 +28,7 @@
 <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png" alt="logo express.js" width="60" height="50"> <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_small.png" alt="logo react" width="60" height="50">
 
 ##### CMS : 
-<img src="https://logos-world.net/wp-content/uploads/2020/10/WordPress-Logo.png" alt="logo wordpress" width="80" height="50"> <img src="https://www.getpagespeed.com/wp-content/uploads/2017/12/Vertical-Logo-2015.png" alt="logo prestashop" width="60" height="50">
+<img src="https://logos-world.net/wp-content/uploads/2020/10/WordPress-Logo.png" alt="logo wordpress" width="80" height="50"> <img src="https://logodix.com/logo/1119571.png" alt="logo woocommerce" width="80" height="50"> <img src="https://www.getpagespeed.com/wp-content/uploads/2017/12/Vertical-Logo-2015.png" alt="logo prestashop" width="60" height="50">
 
 ##### Gestion de base de donnéees :
 <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="logo phpmyadmin" width="60" height="50"> <img src="http://s3.amazonaws.com/info-mongodb-com/_com_assets/media/mongodb-logo-rgb.jpeg" alt="logo mongoDB" width="60" height="50">
