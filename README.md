@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="logo html" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="logo css" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="logo js" width="50" height="50"> 
 
 ##### Langages Back-End : 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="logo php" width="50" height="50"> <img src="https://logodix.com/logo/541959.jpg" alt="logo sql" width="50" height="50"> <img src="https://logodix.com/logo/1960455.jpg" alt="logo nosql" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="logo php" width="50" height="50"> <img src="https://logodix.com/logo/541959.jpg" alt="logo sql" width="50" height="50"> <img src="https://logodix.com/logo/1960455.jpg" alt="logo nosql" width="50" height="50"> <img src="https://logodix.com/logo/2052339.png" alt="logo nosql" width="50" height="50">
 
 ##### Diagrams : 
 <img src="https://fitsmallbusiness.com/wp-content/uploads/2019/06/draw.io_.png" alt="logo draw.io" width="60" height="50">
