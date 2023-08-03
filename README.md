@@ -40,9 +40,27 @@
 <img src="https://www.britlog.com/files/methode-agile.png" alt="logo methode agile" width="60" height="50"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/Git-Logo-1280x800.png" alt="logo git" width="60" height="50"> <img src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" alt="logo github" width="60" height="50">
 
 ##### Plateforme :
-<img src="https://logodix.com/logo/1764835.png" alt="logo node" width="60" height="50">
+<img src="https://logodix.com/logo/1764835.png" alt="logo nodejs" width="60" height="50">
 
-##### Intégration, référencement SEO
+##### Conteneurisation
+<img src="https://logodix.com/logo/826596.png" alt="logo docker" width="60" height="50">
+
+##### CI/CD
+<img src="https://logodix.com/logo/989411.png" alt="logo jenkins" width="60" height="50">
+- tests
+- automatisation (GitHub Actions)
+
+##### Documentation
+<img src="https://logowik.com/content/uploads/images/swagger6360.jpg" alt="logo swagger" width="60" height="50"> <img src="https://raw.githubusercontent.com/slatedocs/img/main/logo-slate.png" alt="logo slatedocs" width="60" height="50"> 
+
+##### Assistance utilisateur
+- AMDEC
+- ITIL
+- REX PROJET
+- Diagnostiques
+- Correctifs
+
+##### Référencement SEO
 
 ##### Join me : 
 <a href="https://www.linkedin.com/in/karine-gard%C3%A8re-2aa6b465/
