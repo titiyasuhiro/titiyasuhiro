@@ -51,7 +51,7 @@
 - automatisation (GitHub Actions)
 
 ##### Documentation
-<img src="https://logowik.com/content/uploads/images/swagger6360.jpg" alt="logo swagger" width="60" height="50"> <img src="https://raw.githubusercontent.com/slatedocs/img/main/logo-slate.png" alt="logo slatedocs" width="60" height="50"> 
+<img src="https://logowik.com/content/uploads/images/swagger6360.jpg" alt="logo swagger" width="80" height="70"> <img src="https://raw.githubusercontent.com/slatedocs/img/main/logo-slate.png" alt="logo slatedocs" width="80" height="70"> 
 
 ##### Assistance utilisateur
 - AMDEC
