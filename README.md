@@ -22,7 +22,7 @@
 <img src="https://pbs.twimg.com/profile_images/488995063913934848/g_1E9Mn6.png" alt="logo analyseSi" width="60" height="50">
 
 ##### Frameworks : 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="logo php" width="50" height="50"> <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="logo tailwind" width="80" height="60"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/semantic-ui-logo.png" alt="logo semantic UI" width="60" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="logo php" width="50" height="50"> <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="logo tailwind" width="80" height="60"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/semantic-ui-logo.png" alt="logo semantic UI" width="60" height="50"> <img src="https://logodix.com/logo/2030514.png" alt="logo vuejs" width="60" height="50">
 
 ##### Librairies : 
 <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png" alt="logo express.js" width="60" height="50"> <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_small.png" alt="logo react" width="60" height="50">
@@ -47,7 +47,7 @@
 
 ##### CI/CD
 <img src="https://logodix.com/logo/989411.png" alt="logo jenkins" width="60" height="50">
-- tests
+- tests (frameworks jest, mocha)
 - automatisation (GitHub Actions)
 
 ##### Documentation
