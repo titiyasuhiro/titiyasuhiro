@@ -1,6 +1,6 @@
 ## Hi I'm Karine 👋
 
-#### After 12 years in accounts department, i choose to work as developer web
+#### After 12 years in accounts department, i choose to work as developer web and now i'm a devops project manager
 
 - 🌱 I’m currently learning development web
 
